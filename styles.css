@@ -18,6 +18,14 @@ body {
     overflow: auto;
 }
 
+.containerk {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+
+  }
+
 #insta {
     width: 400px;
 }
