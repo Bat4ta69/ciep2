@@ -12,7 +12,7 @@ body {
 .container-fluid {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: white; /* Cor de fundo branca */
+    background-color: rgb(179, 231, 241); /* Cor de fundo branca */
     padding: 20px; /* Espaçamento interno */
     border-radius: 8px; /* Bordas arredondadas */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ao redor */
